@@ -26,7 +26,7 @@ Le projet met l’accent sur la manipulation du DOM, la gestion des événements
 
 ## 🔗 Lien vers la page GitHub Pages
 👉 Ajoute ici le lien après avoir activé GitHub Pages :  
-`https://ton-pseudo.github.io/nom-du-projet/`
+`https://github.com/mayara31072005-crypto/thlibi_mayara_interface_chat_simul-e`
 
 ---
 
